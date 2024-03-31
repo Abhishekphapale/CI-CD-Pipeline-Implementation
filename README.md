@@ -21,7 +21,7 @@ For Verify user details
 #cp -rvf hello-world/* /punegit/
 #cd  /punegit/
 #git  add .
-#git commit -m 'myawspro' .
+#git commit -m 'First commit' .
 #git status
 
 # Step2: 
