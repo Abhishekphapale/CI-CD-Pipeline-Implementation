@@ -286,7 +286,7 @@ $sudo vim /opt/playbook/create-docker-container.yml
      - name: remove container
        shell: docker rm -f webapp
      - name: remove container image
-       shell: docker rmi -f sevenmentor:latest
+       shell: docker rmi -f NewContainer:latest
      - name: transfer docker file
        copy:
          src: /opt/docker/Dockerfile
