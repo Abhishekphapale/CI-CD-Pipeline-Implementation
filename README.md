@@ -147,7 +147,7 @@ username: admin
 password: 111
 
 
-# steup for java and maven
+# setup for java and maven
 Verify Version
 #java -version
 
